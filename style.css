@@ -45,6 +45,10 @@
     font-size: 1.1rem;
 }
 
+.header__container__boton__items a{
+    text-decoration: none;
+    color: var(--Very-Dark-Blue);
+}
 /* ---------------------------Main-------------------------------- */
 
 .main{
